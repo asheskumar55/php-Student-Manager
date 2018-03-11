@@ -1,0 +1,41 @@
+.sidenav{
+	background-color: #221177;
+	height: 100%;
+	
+}
+.ashes{
+	color: white;
+	text-align: center;
+	font-weight: bolder;
+	size:100px;
+}
+
+.rightnav{
+	background-color: white;
+	height: 100%;
+}
+a:link{
+	color: white;
+	font-weight: bolder;
+
+}
+a:visited{
+	color:white;
+	font-weight: bolder;
+}
+ 
+
+
+ /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+
+
+.ashes{
+	margin: 25px 25px !important;
+}
+
+.row.content {height: 1000px}
+
+body{
+	background-color: #1BA1E2!important;;
+}
+
